@@ -3,9 +3,11 @@
 Este é um aplicativo simples construído com React Native que gera senhas aleatórias com tema do Batman. App desenvolvido para fins didáticos.
 
 ### Screenshots
+<p float="left">
 <img src="./assets/screen1.png" width="250">
 <img src="./assets/screen2.png" width="250">
 <img src="./assets/screen3.png" width="250">
+</p>
 
 ### Recursos
 
