@@ -19,7 +19,7 @@ Este é um aplicativo simples construído com React Native que gera senhas aleat
 Primeiro, clone o repositório:
 
 ```bash
-git clone https://github.com/edwinbustillos/app-password-bat-react-native
+git clone https://github.com/edwinbustillos/app-password-bat-react-native.git
 ```
 
 Em seguida, instale as dependências:
